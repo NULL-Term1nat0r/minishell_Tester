@@ -1,0 +1,5 @@
+ls -l
+cat output.txt
+Hello World3
+>>>>>>>>>>>>>>>
+echo "Hello World5"
